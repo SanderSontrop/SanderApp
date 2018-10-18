@@ -79,7 +79,7 @@
         android:background="#66edff"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Chunky Munky get me Funky!"
+        android:text="Chunky Munky get me Funky!!"
         android:textAppearance="@style/TextAppearance.AppCompat.Title"
         android:textColor="@color/colorAccent"
         android:textStyle="italic"
